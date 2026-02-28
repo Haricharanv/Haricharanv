@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Haricharan V.
 
-I’m a final-year Computer Science student with a strong foundation in software development and a passion for solving complex real-world problems.
+I’m a Computer Science student with a strong foundation in software development and a passion for solving complex real-world problems.
 
 ## 🌟 Skills & Expertise
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
