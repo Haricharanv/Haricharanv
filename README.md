@@ -8,7 +8,7 @@
   <sub>Turning research workflows, data, and real-time vision ideas into practical software.</sub>
   <br /><br />
   <a href="https://linkedin.com/in/haricharanv"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:haricharanv2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=haricharanv2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
