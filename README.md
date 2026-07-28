@@ -25,7 +25,7 @@ class HariCharan:
     currently_building = "Research Scholar Agent — an AI research assistant with RAG Q&A"
 ```
 
-## Selected work
+
 
 <table>
   <tr>
