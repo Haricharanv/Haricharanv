@@ -16,7 +16,7 @@
 
 ```python
 class HariCharan:
-    languages  = ["Python", "TypeScript", "JavaScript", "C++"]
+    languages  = ["Python"]
     frontend   = ["React", "Next.js", "Tailwind CSS"]
     backend    = ["FastAPI", "Node.js", "Django"]
     ai_ml      = ["RAG Pipelines", "LLMs", "BERT", "TF-IDF", "FAISS"]
