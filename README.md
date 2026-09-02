@@ -106,12 +106,6 @@ class HariCharan:
 ## Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haricharanv&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haricharanv/Haricharanv/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haricharanv/Haricharanv/output/github-snake.svg">
