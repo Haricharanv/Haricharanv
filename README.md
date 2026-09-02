@@ -42,10 +42,15 @@ class HariCharan:
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Haricharanv/pocket_ledger">📱 PocketLedger — SMS Expense Tracker</a></h3>
       <p>Mobile application built with Flutter and Dart that reads and categorizes bank transaction SMS notifications. Implemented regular expressions (Regex) to parse amounts, merchant names, and transaction dates across formats, storing records locally in SQLite for complete offline privacy.</p>
       <p><code>Flutter</code> <code>Dart</code> <code>SQLite</code> <code>Regex</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Haricharanv/Smart-Surveillance-YOLOv8">📹 Smart Surveillance — YOLOv8</a></h3>
+      <p>Real-time low-light object detection and tracking pipeline. Integrated automated image enhancement with YOLOv8 inference, ByteTrack multi-object tracking, and automated boundary-breach alerts for restricted zones.</p>
+      <p><code>Python</code> <code>OpenCV</code> <code>YOLOv8</code> <code>ByteTrack</code> <code>Computer Vision</code></p>
     </td>
   </tr>
 </table>
@@ -109,6 +114,6 @@ class HariCharan:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haricharanv/Haricharanv/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haricharanv/Haricharanv/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Haricharanv/Haricharanv/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Haricharanv/Haricharanv/output/github-snake.svg" width="100%" />
   </picture>
 </div>
