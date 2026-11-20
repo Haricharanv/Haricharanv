@@ -36,7 +36,7 @@ class HariCharan:
       <p><code>Python</code> <code>FastAPI</code> <code>FAISS</code> <code>BERT</code> <code>scikit-learn</code> <code>pypdf</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 Medical Chatbot using Generative AI</h3>
+      <h3><a href="https://github.com/Haricharanv/medical-chatbot">🏥 Medical Chatbot using Generative AI</a></h3>
       <p>Question-answering assistant in Python and Flask using LangChain to search clinical reference documents. Integrated Hugging Face embeddings with Pinecone vector database for similarity search, complete with a clean web interface displaying inline source citations.</p>
       <p><code>Python</code> <code>Flask</code> <code>Pinecone Vector DB</code> <code>Hugging Face</code> <code>HTML/CSS/JS</code></p>
     </td>
